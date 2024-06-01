@@ -31,6 +31,10 @@ const Cart = () => {
       <p>No items in the cart yet.</p>
       <p>No items in the cart yet.</p>
       <p>No items in the cart yet.</p>
+      <p>No items in the cart yet.</p>
+      <p>No items in the cart yet.</p>
+      <p>No items in the cart yet.</p>
+      <p>No items in the cart yet.</p>
     </div>
   );
 };
